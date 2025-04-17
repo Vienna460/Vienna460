@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on :3
 - 📫 How to reach me rakafalleh624@gmail.com
 - 😄 Pronouns: she/him
-- ⚡ Fun fact: I Love Femboy
 
 <!---
 Vienna460/Vienna460 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
