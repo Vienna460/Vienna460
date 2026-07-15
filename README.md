@@ -1,4 +1,4 @@
-# Hi, I'm Vienna
+# Hi there nice to meet you, I'm Vienna
 
 High school student interested in cybersecurity and software development.
 
@@ -7,11 +7,14 @@ High school student interested in cybersecurity and software development.
 - Linux
 - Basic Networking
 - Git
+- C
+- C++
 
 ## Interests
 - DFIR (Digital Forensics & Incident Response)
 - Security tools
 - Backend development
+- IT
 
 <!---
 Vienna460/Vienna460 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
